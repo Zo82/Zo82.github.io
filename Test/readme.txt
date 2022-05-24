@@ -1,0 +1,4 @@
+- Sell bread
+- Sell sugar
+- Sell milk
+- Sell diapers
